@@ -1,0 +1,2 @@
+# CATGPTGEMINIPROMPTS
+1.0 1.12.20XX Request to upload 
